@@ -10,4 +10,5 @@
 <h5>Encabezado HTML de nivel 5</h5>
 <h6>Encabezado HTML de nivel 6</h6>
 
-*Texto en italica con asterisco*, _Texto en italica con__
+*Texto en italica en MD con asterisco*, _Texto en en MD italica con__
+<en>Texto en italica en HDML</en>
