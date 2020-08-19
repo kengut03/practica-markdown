@@ -11,4 +11,13 @@
 <h6>Encabezado HTML de nivel 6</h6>
 
 *Texto en italica en MD con asterisco*, _Texto en en MD italica con guin bajo_
+
 <em>Texto en italica en HDML</em>
+
+**Texto MD en negrita con asteriscos**, __Texto MD en negrita con guion bajo__
+
+<strong>Texto HTML en negrita</strong>
+
+> "En un lugar de la Mancha...
+
+Miguel de Cervantes (1605)
