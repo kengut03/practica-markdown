@@ -22,3 +22,5 @@
 >de cuyo nombre no quiero acordarme"
 
 Miguel de Cervantes (1605)
+
+[Open Geospatial Consortium](https://www.ogc.org/)
