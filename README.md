@@ -24,3 +24,5 @@
 Miguel de Cervantes (1605)
 
 [Open Geospatial Consortium](https://www.ogc.org/)
+
+[Universidad de Costa Rica](https://www.ucr.ac.cr/)
