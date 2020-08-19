@@ -9,3 +9,5 @@
 ...
 <h5>Encabezado HTML de nivel 5</h5>
 <h6>Encabezado HTML de nivel 6</h6>
+
+*Texto en italica con asterisco*, _Texto en italica con__
