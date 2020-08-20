@@ -62,7 +62,7 @@ Lista no numerada HTML
 </ul>
 
 <table>
-  <tr><td>Nombre</td><td>Apellido</td></tr>
+  <tr><th>Nombre</th><th>Apellido</th></tr>
   <tr><td>Juan</td><td>Perez</td></tr>
   <tr><td>Kenneth</td><td>Gutierrez</td></tr>
 </table>
