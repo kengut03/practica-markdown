@@ -42,9 +42,9 @@ Lista numerada MD
 
 Lista numerada HTML
 <ol>
-  <li>Primer elemento<li>
-  <li>Segundo elemento<li>
-  <li>Tercer elemento<li>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
 </ol>
 
 Lista no numerada MD
