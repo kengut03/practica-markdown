@@ -27,4 +27,8 @@ Miguel de Cervantes (1605)
 
 [Universidad de Costa Rica](https://www.ucr.ac.cr/)
 
+Imagen remotos del logo de R
 ![](https://www.r-project.org/logo/Rlogo.png)
+
+Imagen local del logo de R
+![](Rlogo.png)
