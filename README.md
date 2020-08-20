@@ -32,3 +32,15 @@ Imagen remotos del logo de R
 
 Imagen local del logo de R
 ![](img/Rlogo.png)
+
+Lista numerada
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+Lista numerada HTML
+<ol>
+  <li>Primer elemento<li>
+  <li>Segundo elemento<li>
+  <li>Tercer elemento<li>
+  <ol>
