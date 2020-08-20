@@ -56,9 +56,9 @@ Lista no numerada MD
 
 Lista no numerada HTML
 <ul>
-  <li>Primer elemento<li>
-  <li>Segundo elemento<li>
-  <li>Tercer elemento<li>
+  <li>Primer elemento</li>
+  <li>Segundo elemento</li>
+  <li>Tercer elemento</li>
 </ul>
 
 <table>
