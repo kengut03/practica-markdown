@@ -31,4 +31,4 @@ Imagen remotos del logo de R
 ![](https://www.r-project.org/logo/Rlogo.png)
 
 Imagen local del logo de R
-![](Rlogo.png)
+![](img/Rlogo.png)
