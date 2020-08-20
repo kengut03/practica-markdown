@@ -33,7 +33,9 @@ Imagen remotos del logo de R
 Imagen local del logo de R
 ![](img/Rlogo.png)
 
-Lista numerada
+<img src = https://www.r-project.org/logo/Rlogo.png
+
+Lista numerada MD
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento
@@ -43,4 +45,24 @@ Lista numerada HTML
   <li>Primer elemento<li>
   <li>Segundo elemento<li>
   <li>Tercer elemento<li>
-  </ol>
+</ol>
+
+Lista no numerada MD
+- Primer elemento
+ - Primer subelemento
+ - Segundo subelemento
+- Segundo elemento
+- Tercer elemento
+
+Lista no numerada HTML
+<ul>
+  <li>Primer elemento<li>
+  <li>Segundo elemento<li>
+  <li>Tercer elemento<li>
+</ul>
+
+<table>
+  <tr><td>Nombre</td><td>Apellido</td></tr>
+  <tr><td>Juan</td><td>Perez</td></tr>
+  <tr><td>Kenneth</td><td>Gutierrez</td></tr>
+</table>
