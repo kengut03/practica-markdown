@@ -43,4 +43,4 @@ Lista numerada HTML
   <li>Primer elemento<li>
   <li>Segundo elemento<li>
   <li>Tercer elemento<li>
-  <ol>
+  </ol>
